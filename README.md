@@ -11,8 +11,9 @@ foundational notebook:
 
 Enhance your knowledge with these focused notebooks:
 
-- [**Descriptive Statistics: Definition and Types**](https://www.kaggle.com/code/hassaneskikri/descriptive-statistics-definition-and-types?scriptVersionId=168212241): Uncover the fundamentals and types of Descriptive Statistics (DS).
-- [**Probability Distribution and Its Types**](https://github.com/HassaneSkikri/Statistics/blob/main/probability-distribution%20(1).ipynb): Explore the various probability distributions and their significance.
+- [**Descriptive Statistics: Definition and Types**](https://www.kaggle.com/code/hassaneskikri/02-descriptive-statistics-definition-and-types): Uncover the fundamentals and types of Descriptive Statistics (DS).
+- [**Discrete Probability Distribution**](https://github.com/HassaneSkikri/Statistics/blob/main/probability-distribution%20(1).ipynb),
+- [**Continuous Probability Distribution**](): Explore the various probability distributions and their significance.
 - [**Inferential Statistics Overview part 1**](https://www.kaggle.com/code/hassaneskikri/overview-inferential-statistics-part-1?scriptVersionId=168282975),
 - [**Inferential Statistics Overview part 2**](https://www.kaggle.com/code/hassaneskikri/overview-inferential-statistics-part-2) Get acquainted with Inferential Statistics and how it helps in making predictions.
 - [**Degrees of Freedom in Statistics**](https://www.kaggle.com/code/hassaneskikri/statistics-degrees-of-freedom?scriptVersionId=168214655): Learn about the concept of Degrees of Freedom and its importance.
@@ -30,7 +31,3 @@ For those ready to take their skills to the next level:
 - [**Chi-square Tests**](https://www.kaggle.com/code/hassaneskikri/chi-square-statistical-tests?scriptVersionId=168275828)
 - [**Effect Size**](https://www.kaggle.com/code/hassaneskikri/effect-size-statistical-test?scriptVersionId=168277152)
 
-
-### Additional resources:
-- type of statistics:
-![](/TypeStatistics.png)
